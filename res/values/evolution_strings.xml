@@ -456,4 +456,14 @@
 
     <!-- Screen resolution -->
     <string name="custom_screen_resolution_title">Custom screen resolution</string>
+
+    <!-- Dolby -->
+    <string name="dolby_apps_title">Dolby Sound Apps</string>
+    <string name="dolby_effect_title">Dolby Atmos</string>
+    <string name="dolby_mode_intelligence_title">Dynamic</string>
+    <string name="dolby_mode_intelligence_summary">Optimize sound automatically based on what you\'re listening to.</string>
+    <string name="dolby_mode_movie_title">Movie</string>
+    <string name="dolby_mode_movie_summary">Real 3D surround sound and clearer voices.</string>
+    <string name="dolby_mode_music_title">Music</string>
+    <string name="dolby_mode_music_summary">Fuller and more balanced sound.</string>
 </resources>
